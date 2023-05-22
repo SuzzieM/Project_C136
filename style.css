@@ -1,0 +1,61 @@
+body
+{
+    background-size: cover;
+}
+
+#object_name
+{
+   width: auto;
+}
+
+#heading
+{
+    color:whitesmoke;
+    font-weight: bolder;
+    box-shadow: 5px 5px 5px lightblue;
+    margin-top: 0px ;
+    width: 100%;
+    font-size: 30px;
+}
+
+.note
+{
+    font-size: 15px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    line-height: 2;
+}
+
+h3
+{
+    font-size: 23px;
+    box-shadow: 5px 5px 5px lightslategrey;
+    line-height: 2;
+    font-weight: bold;
+}
+
+canvas
+{
+    border-radius: 10px;
+    border: 2px solid white;
+    margin-top: 100px;
+    box-shadow: 2px 2px 2px white , 6px 6px 6px slategrey;
+}
+
+.copyright_footer
+{
+    text-align:center;
+    position: fixed;
+    bottom: 0;
+    background-color:rgb(168, 168, 244);
+    font-weight: bold;
+    width:100%;
+    line-height: 2;
+    color: white;
+    font-size: 17px;
+}
+
+h4
+{
+    color: whitesmoke;
+    font-weight: bold;
+}
